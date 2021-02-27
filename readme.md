@@ -1,4 +1,4 @@
-### Hello to the person in front of your computer 👋
+### Hello to the person reading this 👋
 Hi, you can call me SuperYummy or something.
 
 I'm just writing this description to test it out. I write codes for fun, and I often publish those so you get to see! So feel free to use grab some portions of my source codes.
